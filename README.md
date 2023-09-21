@@ -10,7 +10,7 @@ Clone the repository to your local machine:
 
 # Open terminal/shell
 
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/NIKHIL95969/todoRestApi
 
 # Navigate to the project directory:
 
